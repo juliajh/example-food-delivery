@@ -54,6 +54,7 @@
 # 체크포인트
 
 - 분석 설계
+![image](https://github.com/user-attachments/assets/41f3dea6-9f2a-4a9d-8621-54718a563e81)
 
 
   - 이벤트스토밍: 
